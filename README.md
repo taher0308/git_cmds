@@ -1,1 +1,2 @@
-# git_cmds
+how r u 
+where r u
